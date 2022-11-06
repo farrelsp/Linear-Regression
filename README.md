@@ -1,15 +1,17 @@
 # Linear-Regression
 Repo ini berisi file .ipynb beserta dataset untuk menyelesaikan praktikum kedua di mata kuliah IF5171 Pembelajaran Mesin DSAI.
-Praktikum ini menggunakan dua dataset:
-a. Dataset Company_data.csv
-Berisi tentang prediksi peningkatan penjualan berdasarkan media penyiaran iklan
+Praktikum ini menggunakan dua dataset: 
+<br>
+a. Dataset Company_data.csv <br>
+Berisi tentang prediksi peningkatan penjualan berdasarkan media penyiaran iklan <br>
 Keterangan variabel:
 - Nilai penjualan (sales) : Nilai keberhasilan penjualan
 - Penyiaran televisi (TV) : Biaya yang dikeluarkan untuk iklan di televisi
 - Penyiaran radio (Radio) : Biaya yang dikeluarkan untuk iklan di radio
 - Koran (Newspaper) : Biaya yang dikeluarkan untuk iklan di koran
-b. Dataset biaya_asuransi.csv
-Berisi tentang prediksi biaya asuransi kesehatan
+<br>
+b. Dataset biaya_asuransi.csv <br>
+Berisi tentang prediksi biaya asuransi kesehatan <br>
 Keterangan variabel:
 - umur : umur dari pasien
 - jenis_kelamin : jenis kelamin dari pasien
